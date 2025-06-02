@@ -1,5 +1,4 @@
 ## Software is our passion
 We are located on the Swedish west coast. 
-The company is owned by [Hans Fjällemark](https://github.com/hfjallemark), a freelancing developer & web designer.
-[Stefan Fjällemark](https://github.com/fjallemark) is also a freelancing developer, spending most time on working for fun on open source projects.
+[Stefan Fjällemark](https://github.com/fjallemark) is a freelancing developer, spending most time on working for fun on open source projects.
 
